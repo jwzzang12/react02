@@ -1,0 +1,114 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "day": 4,
+      "id": 4
+    },
+    {
+      "day": 5,
+      "id": 5
+    },
+    {
+      "day": 6,
+      "id": 6
+    }
+  ],
+  "voca": [
+    {
+      "kor": "사자",
+      "eng": "lion",
+      "isDone": false,
+      "id": 1,
+      "day": 2
+    },
+    {
+      "day": 2,
+      "eng": "tiger",
+      "kor": "호랑이",
+      "isDone": false,
+      "id": 2
+    },
+    {
+      "kor": "토끼",
+      "eng": "rabbit",
+      "isDone": false,
+      "id": 3,
+      "day": 1
+    },
+    {
+      "kor": "강아지",
+      "eng": "dog",
+      "isDone": false,
+      "id": 4,
+      "day": 1
+    },
+    {
+      "day": 3,
+      "eng": "horse",
+      "kor": "말",
+      "isDone": false,
+      "id": 5
+    },
+    {
+      "day": 3,
+      "eng": "hippo",
+      "kor": "하마",
+      "isDone": false,
+      "id": 6
+    },
+    {
+      "day": "1",
+      "eng": "banana",
+      "kor": "바나나",
+      "isDone": false,
+      "id": 7
+    },
+    {
+      "day": 1,
+      "eng": "hello",
+      "kor": "안녕",
+      "isDone": false,
+      "id": 8
+    },
+    {
+      "day": 4,
+      "eng": "good",
+      "kor": "좋은",
+      "isDone": false,
+      "id": 9
+    },
+    {
+      "kor": "무엇",
+      "eng": "what",
+      "isDone": false,
+      "id": 10,
+      "day": 5
+    },
+    {
+      "day": 5,
+      "eng": "when",
+      "kor": "언제",
+      "isDone": false,
+      "id": 11
+    },
+    {
+      "day": 5,
+      "eng": "where",
+      "kor": "어디",
+      "isDone": false,
+      "id": 12
+    }
+  ]
+}
